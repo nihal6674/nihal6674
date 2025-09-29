@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nihal6674
+- 👋 Hi, I’m @sfrz6674
 - 👀 I’m interested in software development
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 📦 I believe in npm install happiness.
