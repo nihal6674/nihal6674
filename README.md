@@ -1,5 +1,20 @@
-# 💫 About Me:
-# Hi, I’m Nihal 👋<br><br>I’m a full-stack engineer with a strong backend focus, building production-grade systems used daily by real businesses. I enjoy working on problems where correctness, reliability, and security actually matter.<br><br>Most of my work involves designing systems end-to-end — from data modeling and APIs to background jobs, integrations, and operational edge cases.<br><br>---<br><br>## What I Work On<br><br>- **Backend-heavy web applications** with real users and real data  <br>- **Automation & integrations** (payments, accounting, notifications, storage)  <br>- **State-driven systems** that need reliability and auditability  <br>- **Tools that reduce manual operations** for businesses<br><br>---<br><br>## Selected Project Experience<br><br>- **Certificate Issuance & Verification Platform**  <br>  Built a system for bulk certificate issuance with QR-based public verification, secure cloud storage, revocation, and admin controls. Designed for audit safety and real-world misuse scenarios.<br><br>- **QR-Based Document Capture & Delivery System**  <br>  Implemented live document capture, image processing (crop, deskew, enhancement), PDF generation, secure one-time download links, and automated delivery with failure handling.<br><br>- **Billing & Accounting Automation**  <br>  Developed workflows to track services across organizations and generate accounting-ready exports compatible with tools like QuickBooks.<br><br>- **Real-Time Geolocation & Safety Alerts**  <br>  Built a WebSocket-based system with geofencing, live map visualization, and high-frequency event handling, scaled to thousands of users per minute.<br><br>---<br><br>## Tech Stack<br><br>**Backend**<br>- Node.js, TypeScript  <br>- SQL / MySQL, PostgreSQL, MongoDB  <br>- REST APIs, WebSockets  <br>- Background jobs, schedulers, queues<br><br>**Frontend**<br>- React, Redux  <br>- Clean, functional UI focused on usability<br><br>**Infra & Integrations**<br>- Cloud storage  <br>- Payment gateways  <br>- Email / messaging APIs  <br>- Secure authentication & role-based access<br><br>---<br><br>## How I Work<br><br>- Security-first and failure-aware  <br>- Prefer simple, maintainable designs over clever abstractions  <br>- Think in terms of system states, not just API calls  <br>- Comfortable owning features from idea → production → maintenance<br><br>---<br><br>## Currently<br><br>- Working on backend-heavy automation and integration projects  <br><br>- Always interested in solving real business problems with clean engineering<br><br>---<br><br>📫 Reach me via GitHub issues or discussions.<br>
+# Hi, I’m Nihal 👋
+
+I’m a full-stack engineer with a strong backend focus, building production-grade systems used by real businesses. I work end-to-end — from data modeling and APIs to integrations, background jobs, and operational edge cases.
+
+### What I Work On
+- Backend-heavy web applications  
+- Automation & third-party integrations  
+- Reliable, audit-safe systems  
+- Tools that reduce manual operations
+
+### Tech Stack
+**Node.js, TypeScript, SQL/MySQL, PostgreSQL, MongoDB, React, WebSockets**
+
+I value simple, secure, and maintainable designs, and I’m comfortable owning features from idea to production.
+
+📫 Reach me via GitHub issues or discussions.
+
 
 
 # 💻 Tech Stack:
