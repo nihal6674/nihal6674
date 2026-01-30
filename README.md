@@ -1,6 +1,6 @@
 # Hi, I’m Nihal 👋
 
-s
+
 I’m a full-stack engineer with a strong backend focus, building production-grade systems used by real businesses. I work end-to-end — from data modeling and APIs to integrations, background jobs, and operational edge cases.
 
 ### What I Work On
