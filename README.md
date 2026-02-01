@@ -17,6 +17,7 @@ I value simple, secure, and maintainable designs, and I’m comfortable owning f
 📫 Reach me via GitHub issues or discussions.
 
 ![Radar Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nihal6674&theme=github)
+![snake gif](https://github.com/nihal6674/nihal6674/blob/output/github-contribution-grid-snake.svg)
 
 
 # 💻 Tech Stack:
