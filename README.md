@@ -1,21 +1,12 @@
 # Hi, I’m Nihal 👋
 
+I’m a full-stack engineer with a strong backend focus, building scalable systems, SaaS platforms, and production-grade applications designed for real-world usage.
 
-I’m a full-stack engineer with a strong backend focus, building production-grade systems used by real businesses. I work end-to-end — from data modeling and APIs to integrations, background jobs, and operational edge cases.
+I work across the entire stack — from APIs, databases, background jobs, and integrations to modern frontend applications with React. My focus is on building reliable, maintainable systems with clean architecture and thoughtful engineering decisions.
 
-### What I Work On
-- Backend-heavy web applications  
-- Automation & third-party integrations  
-- Reliable, audit-safe systems  
-- Tools that reduce manual operations
+I enjoy working on backend-heavy applications, automation systems, real-time features, analytics workflows, and tools that simplify complex operations.
 
-### Tech Stack
-**Node.js, TypeScript, SQL/MySQL, PostgreSQL, MongoDB, React, WebSockets**
-
-I value simple, secure, and maintainable designs, and I’m comfortable owning features from idea to production.
-
-Reach me via GitHub issues or discussions.
-
+I value performance, simplicity, and long-term maintainability over quick hacks or temporary solutions.
 
 
 
